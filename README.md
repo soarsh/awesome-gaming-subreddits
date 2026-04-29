@@ -1,5 +1,7 @@
 # Awesome Gaming Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where one 30-second gameplay clip can drive 11,000 wishlists in 12 hours, where r/gaming will eat 99% of your posts before they hit the sub, and where the four most launch-friendly subs aren't on most "best of" lists. Curated for marketing leads at indie game studios, AA publishers, and consumer-app teams launching on Steam, Switch, mobile, and beyond.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
