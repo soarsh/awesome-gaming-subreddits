@@ -1,6 +1,4 @@
-# Awesome Gaming Subreddits
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Gaming Subreddits [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The communities where one 30-second gameplay clip can drive 11,000 wishlists in 12 hours, where r/gaming will eat 99% of your posts before they hit the sub, and where the four most launch-friendly subs aren't on most "best of" lists. Curated for marketing leads at indie game studios, AA publishers, and consumer-app teams launching on Steam, Switch, mobile, and beyond.
 
@@ -16,20 +14,20 @@ The communities where one 30-second gameplay clip can drive 11,000 wishlists in 
 - [How we picked these eight](#how-we-picked-these-eight)
 - [The two-week launch window: myth, mechanic, and reality](#the-two-week-launch-window-myth-mechanic-and-reality)
 - [The shortlist](#the-shortlist)
-  1. [r/gaming](#1-rgaming)
-  2. [r/gamedev](#2-rgamedev)
-  3. [r/pcgaming](#3-rpcgaming)
-  4. [r/SteamDeck](#4-rsteamdeck)
-  5. [r/NintendoSwitch](#5-rnintendoswitch)
-  6. [r/truegaming](#6-rtruegaming)
-  7. [r/nintendo](#7-rnintendo)
-  8. [r/Steam](#8-rsteam)
+  - [r/gaming](#rgaming)
+  - [r/gamedev](#rgamedev)
+  - [r/pcgaming](#rpcgaming)
+  - [r/SteamDeck](#rsteamdeck)
+  - [r/NintendoSwitch](#rnintendoswitch)
+  - [r/truegaming](#rtruegaming)
+  - [r/nintendo](#rnintendo)
+  - [r/Steam](#rsteam)
 - [Posting playbook for game and app marketers](#posting-playbook-for-game-and-app-marketers)
 - [FAQ](#faq)
 - [Subreddits we considered and didn't include](#subreddits-we-considered-and-didnt-include)
 - [Further reading](#further-reading)
 - [Related lists](#related-lists)
-- [License](#license)
+- [Live version with brand-mention data](#live-version-with-brand-mention-data)
 
 ---
 
@@ -72,9 +70,9 @@ The implication for your Reddit strategy: a single well-timed personal-voice pos
 
 ## The shortlist
 
-### 1. r/gaming
+### r/gaming
 
-**~46M subscribers · [reddit.com/r/gaming](https://www.reddit.com/r/gaming/)**
+~46M subscribers · [reddit.com/r/gaming](https://www.reddit.com/r/gaming/)
 
 The second-largest subreddit on the platform after r/funny. Default sub. Sidebar rules ban personal sales, affiliate links, "begging" (give-aways with strings attached), excessive self-promotion, and unmoderated AMAs.
 
@@ -84,9 +82,9 @@ The second-largest subreddit on the platform after r/funny. Default sub. Sidebar
 
 ---
 
-### 2. r/gamedev
+### r/gamedev
 
-**~1.9M subscribers · [reddit.com/r/gamedev](https://www.reddit.com/r/gamedev/)**
+~1.9M subscribers · [reddit.com/r/gamedev](https://www.reddit.com/r/gamedev/)
 
 The largest game development community on Reddit. Sidebar-prominent weekly threads: **Feedback Friday**, **Screenshot Saturday**, **Soundtrack Sunday**, **Marketing Monday**. Mod philosophy is "developer focus, not promotion focus."
 
@@ -96,9 +94,9 @@ The largest game development community on Reddit. Sidebar-prominent weekly threa
 
 ---
 
-### 3. r/pcgaming
+### r/pcgaming
 
-**~3.8M subscribers · [reddit.com/r/pcgaming](https://www.reddit.com/r/pcgaming/)**
+~3.8M subscribers · [reddit.com/r/pcgaming](https://www.reddit.com/r/pcgaming/)
 
 Sidebar bans review-bombing, piracy, DRM-removed builds, and untagged self-promotion. Self-promo allowed in a designated weekly thread; outside that, automod kills it.
 
@@ -108,9 +106,9 @@ Sidebar bans review-bombing, piracy, DRM-removed builds, and untagged self-promo
 
 ---
 
-### 4. r/SteamDeck
+### r/SteamDeck
 
-**~893K subscribers · [reddit.com/r/SteamDeck](https://www.reddit.com/r/SteamDeck/)**
+~893K subscribers · [reddit.com/r/SteamDeck](https://www.reddit.com/r/SteamDeck/)
 
 Active, hardware-focused, very high signal-to-noise post-2024. Sidebar rules govern self-promotion, ban X/Twitter links (joined the 2024 blacklist), and require Steam Deck Verified or Playable status to post about your game's compatibility.
 
@@ -120,9 +118,9 @@ Active, hardware-focused, very high signal-to-noise post-2024. Sidebar rules gov
 
 ---
 
-### 5. r/NintendoSwitch
+### r/NintendoSwitch
 
-**~6.8M subscribers · [reddit.com/r/NintendoSwitch](https://www.reddit.com/r/NintendoSwitch/)**
+~6.8M subscribers · [reddit.com/r/NintendoSwitch](https://www.reddit.com/r/NintendoSwitch/)
 
 The dominant Switch community on Reddit. Sidebar requires moderator approval for AMAs, bans "personal sales, affiliate links, begging," and limits self-promotion to under the unofficial 10% threshold per user.
 
@@ -132,9 +130,9 @@ The dominant Switch community on Reddit. Sidebar requires moderator approval for
 
 ---
 
-### 6. r/truegaming
+### r/truegaming
 
-**~1.15M subscribers · [reddit.com/r/truegaming](https://www.reddit.com/r/truegaming/)**
+~1.15M subscribers · [reddit.com/r/truegaming](https://www.reddit.com/r/truegaming/)
 
 Self-described as "a place for meaningful, insightful, and high-quality discussion on all topics gaming." Among the strictest content-quality moderation in gaming Reddit. The famous "list post rule" (no "Top 10 X" framing, no listicle structure) has its own dedicated wiki section.
 
@@ -144,9 +142,9 @@ Self-described as "a place for meaningful, insightful, and high-quality discussi
 
 ---
 
-### 7. r/nintendo
+### r/nintendo
 
-**~1.5M subscribers · [reddit.com/r/nintendo](https://www.reddit.com/r/nintendo/)**
+~1.5M subscribers · [reddit.com/r/nintendo](https://www.reddit.com/r/nintendo/)
 
 Distinct from r/NintendoSwitch (which is platform-specific). r/nintendo is brand- and IP-focused, covering all Nintendo platforms historically (NES through Switch 2 in 2026), plus Nintendo's broader media output.
 
@@ -156,9 +154,9 @@ Distinct from r/NintendoSwitch (which is platform-specific). r/nintendo is brand
 
 ---
 
-### 8. r/Steam
+### r/Steam
 
-**~3M subscribers · [reddit.com/r/Steam](https://www.reddit.com/r/Steam/)**
+~3M subscribers · [reddit.com/r/Steam](https://www.reddit.com/r/Steam/)
 
 Often confused with the platform, but distinct. The sub is platform-issue-centric: refund policies, Steam UI complaints, sale notices, Steam Family discussions. Rules ban "promotional posts about your own game" and explicitly route those to r/IndieGaming and r/gamedev.
 
@@ -192,32 +190,25 @@ The honest summary: gaming Reddit is a momentum-and-credibility channel on a 3�
 
 ## FAQ
 
-### Why isn't r/IndieDev or r/IndieGaming on the main list?
-
+### Why isn't r/IndieDev or r/IndieGaming on the main list
 They should be, and the canonical 8-sub list is incomplete without them. r/IndieDev (~263K) is the casual indie-dev community where promotion is welcomed; r/IndieGaming (~390K) is the main "show your game" sub with strict rules but vastly higher landing rate than r/gaming. r/indiegames (~235K) and r/playmygame (~105K) round out the indie cluster. Soar's current shortlist over-indexes on platform/hardware subs (Steam, SteamDeck, NintendoSwitch, nintendo) and under-indexes on the indie cluster. We'd add all four to a marketer's working list.
 
-### Why isn't r/Games on the main list?
-
+### Why isn't r/Games on the main list
 Glaring omission. r/Games (~3.5M) is "regarded as a location for more 'serious' discussion on video games while r/gaming is usually the place to post memes." Strict on submission quality. The right sub for major-update posts and considered launch announcements when r/gaming is too lottery-driven. Treat it as a tier-1 target alongside the canonical eight.
 
-### Is the two-week launch window real?
-
+### Is the two-week launch window real
 It's a hard mechanical window for the Steam "email wishlisters" button (you have 14 days post-demo-launch to push it), but the broader "your game is judged in two weeks" framing is folklore. The deeper truth is wishlist velocity and the 7,000–12,000 threshold for Popular Upcoming placement. See the [section above](#the-two-week-launch-window-myth-mechanic-and-reality) for details.
 
-### What's the realistic timeline before Reddit produces wishlists for an indie game?
-
+### What's the realistic timeline before Reddit produces wishlists for an indie game
 Three to six months from first comment to first measurable wishlist lift, with the bulk of momentum happening in the 14 days before launch. The indie cluster compounds over months; the canonical 8 produce spikes only when account warmth and post quality align.
 
-### Should I do an AMA?
-
+### Should I do an AMA
 Coordinated AMAs work; surprise AMAs don't. AMAs in r/NintendoSwitch, r/IndieGaming, or r/gamedev with mod pre-coordination weeks in advance can produce sustained wishlist lift. Walk-on AMAs from studios with no community history get removed before they go live.
 
-### What gets a game-marketing account permabanned?
-
+### What gets a game-marketing account permabanned
 Three patterns: (1) creating multiple accounts to upvote your own posts (vote manipulation, the most severe site-wide offense), (2) sustained breach of the unofficial 10% rule (your posting history is mostly your own game) without account-warmth investment, and (3) cross-sub coordination by mods who've identified you as a known bad actor in another community. The first will get you nuked across all of Reddit; the second and third will kill your effectiveness in target subs.
 
-### Can mobile games succeed on Reddit?
-
+### Can mobile games succeed on Reddit
 Yes, but in different subs. r/AndroidGaming (~500K) and r/iosgaming (~250K) are the mobile-game subs. Mobile-game posts on r/gaming or r/Games get dismissed quickly; keep mobile posts in mobile subs. The dynamics are different (free-to-play conversations, ad-monetization debates), and the audience is more accepting of new releases than the broader gaming community.
 
 ---
@@ -243,23 +234,23 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Further reading
 
-- [How To Market A Game: 11,000 wishlists from one Reddit post](https://howtomarketagame.com/2022/01/10/how-a-two-person-team-earned-11000-wishlists-with-one-reddit-post/). The Hyperact *Laysara* case study, the canonical Reddit-launch reference for indies.
-- [How To Market A Game: Do wishlists matter any more?](https://howtomarketagame.com/2024/01/29/do-wishlists-matter-any-more/). Zukowski's debunking of the two-week-window folklore.
-- [GameDeveloper.com: Don't get downvoted (Luka Plesa)](https://www.gamedeveloper.com/business/don-t-get-downvoted-some-tips-for-promoting-your-indie-game-on-reddit). The "show, don't sell" philosophy.
-- [GameDeveloper.com: How two indie devs got 36.4k upvotes on Reddit](https://www.gamedeveloper.com/business/how-two-indie-devs-got-36-4k-upvotes-on-reddit). The Faux-Operative Games AMA case study.
-- [Steam Deck HQ: The Revolution of r/SteamDeck](https://steamdeckhq.com/news/the-revolution-of-r-steamdeck-and-how-the-top-moderator-was-removed/). The 2024 mod-takeover story.
-- [PC Gamer: r/pcgaming blacklists X](https://www.pcgamer.com/gaming-industry/the-biggest-pc-gaming-subreddit-has-blacklisted-x-for-being-hateful-and-toxic-citing-elon-musks-distasteful-behavior/). The X/Twitter blacklist that affects how studios can share assets.
-- [Cloutboost: How to Market a Video Game on Reddit (2025 Guide)](https://www.cloutboost.com/blog/how-to-market-a-video-game-on-reddit-the-complete-2025-guide-for-game-developers). The most comprehensive competitor list.
-- [SnoutUp: Reddit's 10% guideline shadowban trap](http://snoutup.com/2014/09/14/shadowban-trap-for-gamedevs/). The 10-year-old warning about r/gamedev that's still accurate.
+- [How To Market A Game: 11,000 wishlists from one Reddit post](https://howtomarketagame.com/2022/01/10/how-a-two-person-team-earned-11000-wishlists-with-one-reddit-post/) - The Hyperact *Laysara* case study, the canonical Reddit-launch reference for indies.
+- [How To Market A Game: Do wishlists matter any more?](https://howtomarketagame.com/2024/01/29/do-wishlists-matter-any-more/) - Zukowski's debunking of the two-week-window folklore.
+- [GameDeveloper.com: Don't get downvoted (Luka Plesa)](https://www.gamedeveloper.com/business/don-t-get-downvoted-some-tips-for-promoting-your-indie-game-on-reddit) - The "show, don't sell" philosophy.
+- [GameDeveloper.com: How two indie devs got 36.4k upvotes on Reddit](https://www.gamedeveloper.com/business/how-two-indie-devs-got-36-4k-upvotes-on-reddit) - The Faux-Operative Games AMA case study.
+- [Steam Deck HQ: The Revolution of r/SteamDeck](https://steamdeckhq.com/news/the-revolution-of-r-steamdeck-and-how-the-top-moderator-was-removed/) - The 2024 mod-takeover story.
+- [PC Gamer: r/pcgaming blacklists X](https://www.pcgamer.com/gaming-industry/the-biggest-pc-gaming-subreddit-has-blacklisted-x-for-being-hateful-and-toxic-citing-elon-musks-distasteful-behavior/) - The X/Twitter blacklist that affects how studios can share assets.
+- [Cloutboost: How to Market a Video Game on Reddit (2025 Guide)](https://www.cloutboost.com/blog/how-to-market-a-video-game-on-reddit-the-complete-2025-guide-for-game-developers) - The most comprehensive competitor list.
+- [SnoutUp: Reddit's 10% guideline shadowban trap](http://snoutup.com/2014/09/14/shadowban-trap-for-gamedevs/) - The 10-year-old warning about r/gamedev that's still accurate.
 
 ---
 
 ## Related lists
 
-- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits): index of all our curated lists.
-- [Awesome Consumer Brand Subreddits](https://github.com/soarsh/awesome-consumer-brand-subreddits): for consumer-app marketers and accessory makers.
-- [Awesome Ecommerce Subreddits](https://github.com/soarsh/awesome-ecommerce-subreddits): for game-merchandise and physical-collectible adjacents.
-- [Awesome Developer Tools Subreddits](https://github.com/soarsh/awesome-developer-tools-subreddits): for game-engine and gamedev-tooling vendors.
+- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits) - Index of all our curated lists.
+- [Awesome Consumer Brand Subreddits](https://github.com/soarsh/awesome-consumer-brand-subreddits) - For consumer-app marketers and accessory makers.
+- [Awesome Ecommerce Subreddits](https://github.com/soarsh/awesome-ecommerce-subreddits) - For game-merchandise and physical-collectible adjacents.
+- [Awesome Developer Tools Subreddits](https://github.com/soarsh/awesome-developer-tools-subreddits) - For game-engine and gamedev-tooling vendors.
 
 ## Live version with brand-mention data
 
@@ -271,6 +262,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-Content under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy, adapt, and republish freely. Attribution appreciated, not required.
